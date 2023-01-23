@@ -2,6 +2,7 @@ import { HiOutlineHashtag, HiOutlineHome, HiOutlinePhotograph, HiOutlineUserGrou
 
 export const genres = [
   { title: 'Pop', value: 'POP' },
+  { title: 'MPB', value: 'MPB' },
   { title: 'Hip-Hop', value: 'HIP_HOP_RAP' },
   { title: 'Dance', value: 'DANCE' },
   { title: 'Electronic', value: 'ELECTRONIC' },
